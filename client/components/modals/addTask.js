@@ -45,7 +45,7 @@ export default function AddTaskModal({ open, onClose, onSuccess }) {
                         >
                             Cancel
                         </button>
-                        <button type="submit" className="px-3 py-1 rounded bg-green-500 text-white">
+                        <button type="submit" className="px-3 py-1 rounded bg-[#E5C07B] text-white">
                             Save
                         </button>
                     </div>

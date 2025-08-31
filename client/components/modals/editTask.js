@@ -54,7 +54,7 @@ export default function EditTaskModal({ open, onClose, onSuccess, task }) {
                         <button type="button" onClick={onClose} className="px-3 py-1 rounded bg-gray-200">
                             Cancel
                         </button>
-                        <button type="submit" className="px-3 py-1 rounded bg-blue-500 text-white">
+                        <button type="submit" className="px-3 py-1 rounded bg-[#E5C07B] text-white">
                             Update
                         </button>
                     </div>
