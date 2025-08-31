@@ -7,7 +7,7 @@ The twist is:
 2. Users can search tasks by keyword (title/description).
 3. Users can filter tasks by status.
 
-# NERN Stack Application 
+# NENN Stack Application 
 This is NERN application that uses MongoDB, Express, Next.js, and Node.js.
 
 # Tools   
